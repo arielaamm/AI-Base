@@ -4,8 +4,11 @@
     },
     "python.formatting.provider": "none",
     "cSpell.words": [
+        "colorbar",
         "deskew",
         "deskewed",
-        "ndarray"
+        "mpimg",
+        "ndarray",
+        "pyplot"
     ]
 }
